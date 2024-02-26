@@ -1,5 +1,5 @@
 # Foreword
-*by **Quang Huy (aka @LazyYuuki)** and somewhat ChatGPT*
+*by **Quang Huy (aka @LazyYuuki)** and somewhat ChatGPT and Gemini*
 
 Welcome everyone to this workshop on building basic application with LLM, the hot topic of the past year and the next 10 years. You are at the right place!
 

@@ -1,19 +1,19 @@
 [book]
-  authors      = ["LazyYuuki"]
-  language     = "en"
-  multilingual = false
-  src          = "src"
-  title        = "Introduction to building application with Large Language Model"
+authors = ["LazyYuuki"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Introduction to building application with Large Language Model"
 
 [preprocessor]
 
-  [preprocessor.mermaid]
-    command = "mdbook-mermaid"
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
 
 [output]
 
-  [output.html]
-    additional-css       = ["modified-mermaid.css"]
-    additional-js        = ["mermaid-init.js", "mermaid.min.js"]
-    default-theme        = "Ayu"
-    preferred-dark-theme = "Ayu"
+[output.html]
+additional-css = ["modified-mermaid.css"]
+additional-js = ["mermaid.min.js", "mermaid-init.js", "link.js"]
+default-theme = "Ayu"
+preferred-dark-theme = "Ayu"

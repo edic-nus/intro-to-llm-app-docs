@@ -4,9 +4,9 @@
 [Pre Workshop Setup](./pre-workshop-setup.md)
 [Overview](./overview.md)
 
-- [Chapter 1: Understanding basic LLM toolings]()
-  - [Setting up python development environtment]()
-  - [Working with an LLM API]()
+- [Chapter 1: Understanding basic LLM toolings](./Chapter1/understanding.md)
+  - [Setting up python development environment](./Chapter1/setting-up.md)
+  - [Working with Gemini API](./Chapter1/llm.md)
 - [Chapter 2: Building a basic data extraction interface]()
   - [Building a simple UI with gradio]()
   - [Prompt engineering: the heart of LLM app]()
