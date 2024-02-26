@@ -20,7 +20,7 @@ def extract(inp):
   """
 
   response = model.generate_content(prompt)
-  return response.tex
+  return response.text
 ```
 
 This is in fact a simple agent that take in an input (an email) and return a list of item in csv format.
